@@ -26,10 +26,14 @@ Exploratory Data Analysis of a shoe sales dataset using Python, Pandas & Seaborn
 ## 📊 Visualizations
 
 ### Price vs Revenue
-![Price vs Revenue](images/graph.png)
+![Price vs Revenue](price_revenue.png)
 
 ### Correlation Matrix
-![Correlation Matrix](images/correlation.png)
+![Correlation Matrix](corr.png)
+
+### Shoes type vs Brand
+![Shoes Type with Brand](shoetype_brand.png)
+
 
 ## 💡 Key Insights
 
